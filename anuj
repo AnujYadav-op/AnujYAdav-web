@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anuj Yadav - Cricketer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .gallery img {
+            width: 300px;
+            height: auto;
+            margin: 10px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>Anuj Yadav - Cricketer</header>
+    <div class="container">
+        <h2>Welcome to the Official Website of Anuj Yadav</h2>
+        <h2>Hello brother my name is Anuj YAdav</h2>
+        <h2>Mai Din me to cricket ta hu
+            par din me Antu Station par 500 me ak
+        </h2>
+        <h2>I Am Right Arm Fast Bowler</h2>
+        <h2>Right Hand Batsman</h2>
+        <h3>I am All rounder cricket ME be or Antu PE bi</h3>
+
+        <p>A passionate cricketer striving for excellence.</p>
+        <div class="gallery">
+            <img src="https://res.cloudinary.com/duamo8kh6/image/upload/v1744290432/WhatsApp_Image_2025-04-09_at_9.40.30_PM_q9p8ug.jpg" alt="Anuj Yadav">
+            <img src="https://res.cloudinary.com/duamo8kh6/image/upload/v1744290432/WhatsApp_Image_2025-04-09_at_9.40.29_PM_z7rijq.jpg" alt="Anuj Yadav">
+            <img src="https://res.cloudinary.com/duamo8kh6/image/upload/v1744290431/WhatsApp_Image_2025-04-09_at_9.40.29_PM_2_nayk3n.jpg" alt="Anuj Yadav">
+            <img src="https://res.cloudinary.com/duamo8kh6/image/upload/v1744290430/WhatsApp_Image_2025-04-09_at_9.40.29_PM_1_sevc7v.jpg" alt="Anuj Yadav">
+        </div>
+    </div>
+    <footer>&copy; 2025 Anuj Yadav | All Rights Reserved</footer>
+</body>
+</html>
